@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Creative Canvas Online Art Supplies Store</title>
+</head>
+
+<body bgcolor="#FFF8E7">
+
+<header style="background-color:#8B4513; color:white; padding:15px;">
+<h1 align="center">Creative Canvas Online Art Supplies Store</h1>
+
+<nav align="center">
+<a href="#">Home</a> |
+<a href="#">Products</a> |
+<a href="#">About</a> |
+<a href="#">Contact</a>
+</nav>
+</header>
+
+<br>
+
+<section align="center">
+<h2>Unleash Your Creativity</h2>
+
+<p>
+Find high-quality art supplies for beginners and professionals.
+Create beautiful artwork with our premium products at affordable prices.
+</p>
+
+<button>Shop Now</button>
+</section>
+
+<hr>
+
+<section>
+<h2 align="center">Our Best Selling Products</h2>
+
+<table align="center" cellpadding="20">
+
+<tr>
+
+<td align="center">
+<h3>Acrylic Paint Set</h3>
+<p>12 Bright Colours</p>
+<p><b>₹599</b></p>
+<button>Add to Cart</button>
+</td>
+
+<td align="center">
+<h3>Sketch Book</h3>
+<p>A4 Premium Drawing Book</p>
+<p><b>₹299</b></p>
+<button>Add to Cart</button>
+</td>
+
+<td align="center">
+<h3>Brush Set</h3>
+<p>10 Professional Brushes</p>
+<p><b>₹399</b></p>
+<button>Add to Cart</button>
+</td>
+
+</tr>
+
+</table>
+</section>
+
+<hr>
+
+<section align="center">
+<h2>About Creative Canvas</h2>
+
+<p>
+Creative Canvas is your trusted online destination for quality
+art supplies including paints, brushes, sketchbooks, pencils,
+markers, and craft materials.
+
+We provide premium products with fast delivery across India.
+Our mission is to inspire creativity in every artist.
+</p>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>Why Choose Us?</h2>
+
+<table align="center" cellpadding="15">
+
+<tr>
+<td>Quality Products</td>
+<td>Fast Delivery</td>
+</tr>
+
+<tr>
+<td>Affordable Prices</td>
+<td>24×7 Customer Support</td>
+</tr>
+
+</table>
+
+</section>
+
+<hr>
+
+<section align="center">
+
+<h2>Contact Us</h2>
+
+<form>
+
+<p>
+<input type="text" placeholder="Enter Your Name" required>
+</p>
+
+<p>
+<input type="email" placeholder="Enter Email Address" required>
+</p>
+
+<p>
+<input type="tel" placeholder="Phone Number">
+</p>
+
+<p>
+<textarea rows="5" cols="40" placeholder="Your Message"></textarea>
+</p>
+
+<input type="submit" value="Send Message">
+
+</form>
+
+</section>
+
+<br>
+
+<footer style="background-color:#8B4513; color:white; padding:15px;" align="center">
+
+<h3>Creative Canvas Online Art Supplies Store</h3>
+
+<p>Email: creativecanvas@gmail.com</p>
+
+<p>Phone: +91 9876543210</p>
+
+<p>© 2026 Creative Canvas. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
